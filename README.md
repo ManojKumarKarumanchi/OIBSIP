@@ -34,26 +34,8 @@ This internship was undertaken at Oasis Infobyte, where I had the opportunity to
   - Predict future product sales by leveraging Python and machine learning. Explore how different factors, such as advertising costs and target segments, impact sales predictions for a product or service-based business.
 
 ## Directory Structure
-/
-├─ tasks/
-│   ├─ task1/
-│   │   ├─ code/
-│   │   ├─ documentation/
-│   │   └─ ...
-│   ├─ task2/
-│   │   ├─ code/
-│   │   ├─ documentation/
-│   │   └─ ...
-...................
-...................
-...................
-│   └─ task5/
-│   │   ├─ code/
-│   │   ├─ documentation/
-│   │   └─ ... 
-├─ ...
-├─ README.md
-└─ ...
+
+![image](https://github.com/ManojKumarKarumanchi/OIBSIP/assets/86285857/f2ee9e39-017f-4d1b-acce-17d8a9860e76)
 
 
 ## Contributing
