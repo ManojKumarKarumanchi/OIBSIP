@@ -5,11 +5,11 @@
 Welcome to the Oasis Infobyte Internship Tasks Repository! This repository contains a collection of tasks, projects, and assignments I completed during my internship at Oasis Infobyte. Here, you'll find a variety of code, documentation, and other resources that showcase my progress and skills developed throughout this internship.
 
 ## Table of Contents
-About the Internship
-Tasks
-Directory Structure
-Contributing
-Contact
+- About the Internship
+- Tasks
+- Directory Structure
+- Contributing
+- Contact
 
 ## About the Internship
 This internship was undertaken at Oasis Infobyte, where I had the opportunity to work on diverse projects related to machine learning and data analysis with Python. During the internship, I gained hands-on experience and contributed to real-world projects.
