@@ -16,8 +16,6 @@ This internship was undertaken at Oasis Infobyte, where I had the opportunity to
 
 ## Tasks
 
-## Tasks
-
 - **Task 1: Iris Flower Classification**
   - Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements. The task involved training a machine learning model to classify these species based on their measurements.
 
