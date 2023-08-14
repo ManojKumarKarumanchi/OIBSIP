@@ -17,19 +17,20 @@ This internship was undertaken at Oasis Infobyte, where I had the opportunity to
 ## Tasks
 
 - **Task 1: Iris Flower Classification**
-  - Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements. The task involved training a machine learning model to classify these species based on their measurements.
+  - Classified Iris flowers into three species: setosa, versicolor, and virginica, based on their measurements using a trained machine learning model.
 
 - **Task 2: Unemployment Analysis with Python**
-  - Analyze the unemployment rate, especially during Covid-19, by using Python to process and visualize relevant data. Explore trends, patterns, and potential insights from the unemployment rate data.
+  - Analyzed the unemployment rate, particularly during Covid-19, by processing and visualizing relevant data with Python. Explored trends, patterns, and potential insights from the unemployment rate data.
 
 - **Task 3: Car Price Prediction with Machine Learning**
-  - Develop a machine learning model to predict car prices based on various factors like brand goodwill, car features, horsepower, and mileage. This task delves into the exciting field of car price prediction using machine learning techniques.
+  - Developed a machine learning model to predict car prices using various factors such as brand goodwill, car features, horsepower, and mileage. Explored the exciting field of car price prediction with machine learning techniques.
 
 - **Task 4: Email Spam Detection with Machine Learning**
-  - Build an email spam detector using Python and employ machine learning techniques to train the model to recognize and classify emails into spam and non-spam categories.
+  - Built an email spam detector using Python and applied machine learning techniques to train the model to recognize and classify emails into spam and non-spam categories.
 
 - **Task 5: Sales Prediction using Python**
-  - Predict future product sales by leveraging Python and machine learning. Explore how different factors, such as advertising costs and target segments, impact sales predictions for a product or service-based business.
+  - Predicted future product sales using Python and machine learning. Explored how different factors, like advertising costs and target segments, influenced sales predictions for a product or service-based business.
+
 
 ## Directory Structure
 
