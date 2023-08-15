@@ -41,4 +41,4 @@ This internship was undertaken at Oasis Infobyte, where I had the opportunity to
 While this repository primarily showcases my internship tasks, constructive feedback is always welcome. If you encounter issues or have suggestions, please feel free to create an issue or submit a pull request.
 
 ## Contact
-If you have any questions, or suggestions, or just want to connect, you can reach me at manojkumarkarumanchi7@gmail.com.
+If you have any questions, or suggestions, or just want to connect, you can reach me at github.com/ManojKumarKarumanchi
